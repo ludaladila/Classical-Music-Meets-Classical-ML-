@@ -1,4 +1,4 @@
-# Classical Music Meets Classical ML Fall 2024 - Kaggle Competition
+# Classical Music Meets Classical ML 
 
 ## Overview
 
